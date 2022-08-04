@@ -2,7 +2,9 @@
 
 <h1 align="center">НЕДЕЛЯ 1</h1> 
 <div> ![image](https://user-images.githubusercontent.com/65223481/182911428-0a70a03b-399f-4f61-958b-502c3dd7afd3.png) height="32"</div>
+
 ![image](https://user-images.githubusercontent.com/65223481/182911428-0a70a03b-399f-4f61-958b-502c3dd7afd3.png)
+
 ****
 НОТАТКИ по Git/
 Система контроля версий (от англ. Version Control System, VCS) — это место хранения кода  для разработчиков!
