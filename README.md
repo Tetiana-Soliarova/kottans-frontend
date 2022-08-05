@@ -1,10 +1,10 @@
 # kottans-frontend 
 
-<h2 align="center">НЕДЕЛЯ 1</h2> 
+<h2 align="center">НЕДЕЛЯ 1-2</h2> 
 
 ![n1](https://user-images.githubusercontent.com/65223481/182912787-c87eff3f-0ed6-4681-a8b7-aa87626b4309.png)
 
-
+![n2](https://user-images.githubusercontent.com/65223481/182914206-2b5512e5-7d12-4ac8-b4c7-745cb56abac6.png)
 ****
 НОТАТКИ по Git/
 ## Operations on Files
@@ -22,7 +22,7 @@
 | $ git mv | Moves a file |
 | $ git rm | Removes a file |
 	
-    ## Reverting Changes 
+## Reverting Changes 
 
 | Syntax | Description |                        
 | :--- | :--- |                                                                                
@@ -66,7 +66,7 @@
 | $ git branch -r | Lists remote branches; can be combined with other branch arguments to manage remote branches |
 	
 
-    
+
 <b>Система контроля версий (от англ. Version Control System, VCS</b>) — это место хранения кода  для разработчиков!
 
 Она заточена именно на разработку продуктов. То есть на хранение кода, синхронизацию работы нескольких человек, создание релизов (бранчей)...
@@ -95,9 +95,6 @@ diff -u используется для сравнения двух файлов
 Простейший способ зафиксировать изменения — это набрать git commit
 
 
-<h2 align="center">НЕДЕЛЯ 2</h2> 
-
-![n2](https://user-images.githubusercontent.com/65223481/182914206-2b5512e5-7d12-4ac8-b4c7-745cb56abac6.png)
 
 
 <b>Git commit -a </b> не работает с новыми файлами, потому что они не отслеживаются.Вместо этого git commit -a - это ярлык для выполнениялюбых изменений в отслеживаемых файлах и фиксации их за один шаг.
