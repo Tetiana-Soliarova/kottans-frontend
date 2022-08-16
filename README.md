@@ -1,4 +1,9 @@
 # kottans-frontend 
+## Linux CLI, and HTTP
+
+
+## Git та GitHub
+
 
 <h2 align="center">НЕДЕЛЯ 1-2</h2> 
 
