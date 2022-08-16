@@ -1,7 +1,9 @@
 # Kottans-frontend
-<h1 align="center" >Kottans-frontend </h1> 
-<hr/>
+
 <h2 align="center">2) Linux CLI, and HTTP</h2> 
+![linux1](https://user-images.githubusercontent.com/65223481/184861676-1b520d9d-4a16-4303-943d-df8eea35fd08.png)
+
+
 <hr/>
 <h2 align="center">1) Git та GitHub</h2> 
 
