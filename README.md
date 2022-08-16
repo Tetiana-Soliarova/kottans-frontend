@@ -1,5 +1,5 @@
-
-<h1 align="center"><b>kottans-frontend </b></h1> 
+# Kottans-frontend
+<h1 align="center" >Kottans-frontend </h1> 
 <hr/>
 <h2 align="center">2) Linux CLI, and HTTP</h2> 
 <hr/>
