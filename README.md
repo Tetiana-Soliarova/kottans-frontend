@@ -1,7 +1,10 @@
 # Kottans-frontend
 
 <h2 align="center">2) Linux CLI, and HTTP</h2> 
-![linux1](https://user-images.githubusercontent.com/65223481/184861676-1b520d9d-4a16-4303-943d-df8eea35fd08.png)
+
+
+![linux1](https://user-images.githubusercontent.com/65223481/184857947-66409b98-b1cb-457d-ad7e-2ca0098c771d.png)
+
 
 
 <hr/>
