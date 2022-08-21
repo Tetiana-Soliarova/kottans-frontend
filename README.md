@@ -51,7 +51,7 @@
 
 ![n2](https://user-images.githubusercontent.com/65223481/182914206-2b5512e5-7d12-4ac8-b4c7-745cb56abac6.png)</details>
 
-****
+
 
   <details><summary> <b> learngitbranching.js.org </b></summary>
 
