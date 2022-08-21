@@ -53,8 +53,14 @@
 
 ****
 
-  <details><summary> #### learngitbranching.js.org</summary>
+  <details><summary> <b> learngitbranching.js.org </b></summary>
 
 ![git](https://user-images.githubusercontent.com/65223481/184858362-2c894433-7643-4733-a1f4-9ac03a8bc0ea.png)
 
 ![git1](https://user-images.githubusercontent.com/65223481/184858837-e7c026c3-1101-47f3-8056-4fd3d20225e1.png)</details>
+
+
+<details><summary> <b> Конспект </b></summary>
+
+
+</details>
