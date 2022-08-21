@@ -1,25 +1,27 @@
 # Kottans-frontend
 ---
 
-#  Stage 0 
+#  Stage 0. Self-Study 
 
-1 - [x] **Git Basics**
-2. - [x] **Linux CLI and Networking**
-3. - [ ] **VCS (hello gitty), GitHub and Collaboration**
-4. - [ ] **Intro to HTML & CSS**
-5 - [ ] **Responsive Web Design**
-6 - [ ] **HTML & CSS Practice**
-7 - [ ] **JavaScript Basics**
-8 - [ ] **Document Object Model - practice**
-9 - [ ] **Building a Tiny JS World (pre-OOP) - practice**
-10 - [ ] **Object oriented JS - practice**
-11 - [ ] **OOP exercise - practice**
-12 - [ ] **Offline Web Applications - optional**
-13 - [ ] **Memory pair game — real project!**
-14 - [ ] **Website Performance Optimization - optional**
-15 - [ ] **Friends App - real project!**
+ - [x] **Git Basics**
+ - [x] **Linux CLI and Networking
+ - [ ] **VCS (hello gitty), GitHub and Collaboration
+ - [ ] **Intro to HTML & CSS
+ - [ ] **Responsive Web Design
+ - [ ] **HTML & CSS Practice
+ - [ ] **JavaScript Basics
+ - [ ] **Document Object Model - practice
+ - [ ] **Building a Tiny JS World (pre-OOP) - practice
+ - [ ] **Object oriented JS - practice
+ - [ ] **OOP exercise - practice
+ - [ ] **Offline Web Applications - optional
+ - [ ] **Memory pair game — real project!
+ - [ ] **Website Performance Optimization - optional
+ - [ ] **Friends App - real project!
 
 ---
+
+
 
 <h2 align="center">2) Linux CLI, and HTTP</h2> 
 
