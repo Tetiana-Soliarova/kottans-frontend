@@ -4,9 +4,9 @@
 #  Stage 0 
 
 1 - [x] **Git Basics**
-2 - [x] **Linux CLI and Networking**
-3 - [ ] **VCS (hello gitty), GitHub and Collaboration**
-4 - [ ] **Intro to HTML & CSS**
+2. - [x] **Linux CLI and Networking**
+3. - [ ] **VCS (hello gitty), GitHub and Collaboration**
+4. - [ ] **Intro to HTML & CSS**
 5 - [ ] **Responsive Web Design**
 6 - [ ] **HTML & CSS Practice**
 7 - [ ] **JavaScript Basics**
@@ -49,7 +49,7 @@
 ![n2](https://user-images.githubusercontent.com/65223481/182914206-2b5512e5-7d12-4ac8-b4c7-745cb56abac6.png)</details>
 ****
 
-####  <details><summary> learngitbranching.js.org</summary>
+  <details><summary> #### learngitbranching.js.org</summary>
 
 ![git](https://user-images.githubusercontent.com/65223481/184858362-2c894433-7643-4733-a1f4-9ac03a8bc0ea.png)
 
