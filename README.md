@@ -25,9 +25,11 @@
 
 ###  task_linux_cli
 
+<details><summary>Screenshot of Quiz 1</summary>
+  ![linux1](https://user-images.githubusercontent.com/65223481/184857947-66409b98-b1cb-457d-ad7e-2ca0098c771d.png)
+</details>
 
 
-![linux1](https://user-images.githubusercontent.com/65223481/184857947-66409b98-b1cb-457d-ad7e-2ca0098c771d.png)
 ![linux_2](https://user-images.githubusercontent.com/65223481/184943075-d3b2dd13-d4bc-4fbd-8a2a-03ebd42660af.png)
 
 
