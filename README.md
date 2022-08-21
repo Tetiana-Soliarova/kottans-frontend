@@ -61,6 +61,7 @@
 
 
 <details><summary> <b> Конспект </b></summary>
+	
 ## Configuring you Git 
 
 | Syntax | Description |                        
