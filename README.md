@@ -1,7 +1,7 @@
 # Kottans-frontend
 ---
 
-# The Stage 0 course program
+#  Stage 0 
 
 - [x] **Git Basics**
 - [x] **Linux CLI and Networking**
