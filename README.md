@@ -22,7 +22,7 @@
 ---
 <h2 align="center">3)VCS (hello gitty), GitHub and Collaboration </h2> 
 
-<details><summary><b>НЕДЕЛЯ 3-4 </b></summary>
+<details><summary><b>НЕДЕЛЯ 3-4 Coursera </b></summary>
 
 
 ![3](https://user-images.githubusercontent.com/65223481/186099852-a687c8c6-4dec-49c9-95fd-b5d3ab9d6016.png)
@@ -68,7 +68,7 @@
 
 
  <details><summary>
- <b>НЕДЕЛЯ 1-2 </b></summary>
+ <b>НЕДЕЛЯ 1-2 Coursera </b></summary>
 
 ![n1](https://user-images.githubusercontent.com/65223481/182912787-c87eff3f-0ed6-4681-a8b7-aa87626b4309.png)
 
