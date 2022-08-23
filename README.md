@@ -20,6 +20,7 @@
  - [ ] **Friends App - real project!
 
 ---
+
 <h2 align="center">4)Intro to HTML and CSS </h2> 
 
 ### task_html_css_intro
@@ -28,7 +29,7 @@ https://www.coursera.org/learn/html-css-javascript-for-web-developers
 <details><summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary><details>
 
 
-
+<hr/>
 <h2 align="center">3)VCS (hello gitty), GitHub and Collaboration </h2> 
 
 ### task_git_collaboration
