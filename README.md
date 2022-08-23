@@ -29,7 +29,7 @@
 </details>
 
 <details><summary><b>Learn HTML(Eng)</b></summary>
-<details><summary><h3>Заметки<h3></summary>
+<details><summary><h5>Заметки<h5></summary>
 
 	
 ![HTML](https://user-images.githubusercontent.com/65223481/186252613-a69fba39-5cc2-494a-9e58-588a6eb85575.png)
