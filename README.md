@@ -36,6 +36,12 @@
   
 ![linux_2](https://user-images.githubusercontent.com/65223481/184943075-d3b2dd13-d4bc-4fbd-8a2a-03ebd42660af.png)</details>
 
+<details><summary> Quiz 3</summary>
+  
+![linux3](https://user-images.githubusercontent.com/65223481/186087243-a6e7c107-b1fb-4b9d-9fce-6329f5f5c4be.png)
+
+
+</details>
 
 
 
