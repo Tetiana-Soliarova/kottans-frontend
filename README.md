@@ -23,7 +23,7 @@
 
 <h2 align="center">3)VCS (hello gitty), GitHub and Collaboration </h2> 
 
-## Git Collaboration
+### task_git_collaboration
 <details><summary><b>НЕДЕЛЯ 3-4 Coursera </b></summary>
 
 
