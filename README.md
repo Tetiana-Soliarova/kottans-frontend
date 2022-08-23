@@ -22,7 +22,7 @@
 ---
 <h2 align="center">3)VCS (hello gitty), GitHub and Collaboration </h2> 
 
-<b>НЕДЕЛЯ 3-4 </b></summary>
+<details><b>НЕДЕЛЯ 3-4 </b></summary>
 
 
 ![3](https://user-images.githubusercontent.com/65223481/186099852-a687c8c6-4dec-49c9-95fd-b5d3ab9d6016.png)
