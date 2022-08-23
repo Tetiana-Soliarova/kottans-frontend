@@ -20,6 +20,7 @@
  - [ ] **Friends App - real project!
 
 ---
+## Git Collaboration
 <h2 align="center">3)VCS (hello gitty), GitHub and Collaboration </h2> 
 
 <details><summary><b>НЕДЕЛЯ 3-4 Coursera </b></summary>
