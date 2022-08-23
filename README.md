@@ -48,7 +48,8 @@
 ###  task_linux_cli
 
 <details><summary> Quiz 1</summary>
-[https://learngitbranching.js.org/?locale=uk](https://linuxsurvival.com/)
+
+[https://linuxsurvival.com/](https://linuxsurvival.com/)
 
 ![linux1](https://user-images.githubusercontent.com/65223481/184857947-66409b98-b1cb-457d-ad7e-2ca0098c771d.png)</details>
 <details><summary> Quiz 2</summary>
