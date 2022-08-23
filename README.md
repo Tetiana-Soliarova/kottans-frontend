@@ -29,10 +29,14 @@
 </details>
 
 <details><summary><b>Learn HTML(Eng)</b></summary>
+<details><summary><h3>Заметки<h3></summary>
 
+	
 ![HTML](https://user-images.githubusercontent.com/65223481/186252613-a69fba39-5cc2-494a-9e58-588a6eb85575.png)
+	
+![HTML_1](https://user-images.githubusercontent.com/65223481/186259648-1c1d78dd-0315-476c-902f-46c82d8e7d3a.png)
 
-</details>
+</details></details>
 
 
 <hr/>
