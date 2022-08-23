@@ -20,9 +20,18 @@
  - [ ] **Friends App - real project!
 
 ---
+<h2 align="center">3)VCS (hello gitty), GitHub and Collaboration </h2> 
+
+<b>НЕДЕЛЯ 3-4 </b></summary>
+
+![3](https://user-images.githubusercontent.com/65223481/186099852-a687c8c6-4dec-49c9-95fd-b5d3ab9d6016.png)
+
+![4](https://user-images.githubusercontent.com/65223481/186099865-19f869d1-aecc-4562-82af-e6d059518cbd.png)
+
+</details>
 
 
-
+<hr/>
 <h2 align="center">2) Linux CLI, and HTTP</h2> 
 
 ###  task_linux_cli
