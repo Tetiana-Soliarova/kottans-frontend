@@ -25,7 +25,7 @@
 
 ### task_html_css_intro
 
-https://www.coursera.org/learn/html-css-javascript-for-web-developers
+
 <details><summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary><details>
 
 
