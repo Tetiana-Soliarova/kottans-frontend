@@ -42,7 +42,13 @@
 
 
 </details>
+<details><summary> Quiz 4</summary>
+  
+![linux4](https://user-images.githubusercontent.com/65223481/186096113-377da8db-e62b-40b0-8492-4c528037bbca.png)
 
+
+
+</details>
 
 
 <hr/>
