@@ -20,9 +20,10 @@
  - [ ] **Friends App - real project!
 
 ---
-## Git Collaboration
+
 <h2 align="center">3)VCS (hello gitty), GitHub and Collaboration </h2> 
 
+## Git Collaboration
 <details><summary><b>НЕДЕЛЯ 3-4 Coursera </b></summary>
 
 
@@ -36,6 +37,9 @@
 <details><summary><b>learngitbranching.js.org </b></summary>
 	
 [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk)
+	
+	
+![git 3](https://user-images.githubusercontent.com/65223481/186133951-a4a7bd58-8c27-4b29-a73f-2028eb574ba2.png)
 
 
 
