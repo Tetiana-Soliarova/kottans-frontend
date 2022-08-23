@@ -28,6 +28,11 @@
 <details><summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary>
 </details>
 
+<details><summary><b>Learn HTML(Eng)</b></summary>
+
+![HTML](https://user-images.githubusercontent.com/65223481/186252613-a69fba39-5cc2-494a-9e58-588a6eb85575.png)
+
+</details>
 
 
 <hr/>
