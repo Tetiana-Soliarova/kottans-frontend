@@ -41,6 +41,7 @@
 	
 ![git 3](https://user-images.githubusercontent.com/65223481/186133951-a4a7bd58-8c27-4b29-a73f-2028eb574ba2.png)
 
+![git 4](https://user-images.githubusercontent.com/65223481/186237647-74549f57-5e12-49a8-bbb1-ac11764c83ae.png)
 
 
 </details>
