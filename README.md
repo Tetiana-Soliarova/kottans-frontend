@@ -29,12 +29,22 @@
 </details>
 
 <details><summary><b>Learn HTML(Eng)</b></summary>
+![html6](https://user-images.githubusercontent.com/65223481/186418347-938fd690-684d-4642-9508-35ff42845a67.png)
+	
 <details><summary><h5>Заметки<h5></summary>
 
 	
 ![HTML](https://user-images.githubusercontent.com/65223481/186252613-a69fba39-5cc2-494a-9e58-588a6eb85575.png)
 	
 ![HTML_1](https://user-images.githubusercontent.com/65223481/186259648-1c1d78dd-0315-476c-902f-46c82d8e7d3a.png)
+	
+![html2](https://user-images.githubusercontent.com/65223481/186418223-7a07504b-f07b-4214-812d-51eda77cca45.png)
+	
+![html3](https://user-images.githubusercontent.com/65223481/186418242-4a719eed-5d90-46f0-8978-9e4b77400ab4.png)
+	
+![html4](https://user-images.githubusercontent.com/65223481/186418262-140baa2e-6962-4da2-b367-515ae7fb26c5.png)
+	
+![html5](https://user-images.githubusercontent.com/65223481/186418280-79f72cac-3663-444c-8966-72e3b64ebd9d.png)
 
 </details></details>
 
