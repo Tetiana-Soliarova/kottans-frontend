@@ -48,6 +48,21 @@
 ![html5](https://user-images.githubusercontent.com/65223481/186418280-79f72cac-3663-444c-8966-72e3b64ebd9d.png)
 
 </details></details>
+	
+	
+<details><summary><b>Learn CSS(Eng)</b></summary>
+	
+
+	
+<details><summary><h5>Заметки<h5></summary>
+
+![css1](https://user-images.githubusercontent.com/65223481/186516521-fd45ab45-958a-43f2-9a27-0ef877a77072.png)
+	
+![css2](https://user-images.githubusercontent.com/65223481/186516530-b782c8a6-a981-4ea9-a250-f699bb352d4f.png)
+![css3](https://user-images.githubusercontent.com/65223481/186516540-0bf47f99-9422-4692-997c-8a6001cb4e0f.png)
+
+
+</details></details>
 
 
 <hr/>
