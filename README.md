@@ -28,11 +28,11 @@
 <details><summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary>
 </details>
 
-<details><summary><b>Learn HTML(Eng)</b></summary>
+<details><summary><b>Learn HTML(Eng)+Learn CSS(Eng)</b></summary>
 	
 ![html6](https://user-images.githubusercontent.com/65223481/186418347-938fd690-684d-4642-9508-35ff42845a67.png)
 	
-<details><summary><h5>Заметки<h5></summary>
+<details><summary><h5>Заметки Learn HTML<h5></summary>
 
 	
 ![HTML](https://user-images.githubusercontent.com/65223481/186252613-a69fba39-5cc2-494a-9e58-588a6eb85575.png)
@@ -47,16 +47,9 @@
 	
 ![html5](https://user-images.githubusercontent.com/65223481/186418280-79f72cac-3663-444c-8966-72e3b64ebd9d.png)
 
-</details></details>
-	
-	
-<details><summary><b>Learn CSS(Eng)</b></summary>
-	
+</details>
 
-	
-	
-	
-<details><summary><h5>Заметки<h5></summary>
+<details><summary><h5>Заметки Learn CSS(Eng)<h5></summary>
 	Бесплатные службы шрифтов, такие как Google Fonts (https://fonts.google.com/).
 	и Adobe Fonts (https://fonts.adobe.com/) , размещают шрифты, на которые вы можете ссылаться из своего HTML-документа с помощью предоставленного link элемента.
 
@@ -71,7 +64,19 @@
 	
 
 
-</details></details>
+</details></details>	
+	
+	
+	</details>
+	
+	
+<details><summary><b>Learn CSS(Eng)</b></summary>
+	
+
+	
+	
+	
+
 
 
 	
