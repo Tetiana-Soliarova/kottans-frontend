@@ -28,12 +28,21 @@
 <details><summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary>
 </details>
 
+
+
+
+
 <details><summary><b>Learn HTML(Eng)+Learn CSS(Eng)</b></summary>
+	
+![css+html](https://user-images.githubusercontent.com/65223481/186767069-c2b3a19e-ae35-43f0-baac-ee00e35815d3.png)
 	
 ![html6](https://user-images.githubusercontent.com/65223481/186418347-938fd690-684d-4642-9508-35ff42845a67.png)
 	
+![css9](https://user-images.githubusercontent.com/65223481/186767088-02eef3f0-19b7-4887-ad83-71b9ab5decd7.png)
+	
+	
+	
 <details><summary><h5>Заметки Learn HTML<h5></summary>
-
 	
 ![HTML](https://user-images.githubusercontent.com/65223481/186252613-a69fba39-5cc2-494a-9e58-588a6eb85575.png)
 	
@@ -48,44 +57,31 @@
 ![html5](https://user-images.githubusercontent.com/65223481/186418280-79f72cac-3663-444c-8966-72e3b64ebd9d.png)
 
 </details>
+	
+	
 
 <details><summary><h5>Заметки Learn CSS(Eng)<h5></summary>
-	Бесплатные службы шрифтов, такие как Google Fonts (https://fonts.google.com/).
-	и Adobe Fonts (https://fonts.adobe.com/) , размещают шрифты, на которые вы можете ссылаться из своего HTML-документа с помощью предоставленного link элемента.
-
-![css1](https://user-images.githubusercontent.com/65223481/186516521-fd45ab45-958a-43f2-9a27-0ef877a77072.png)
 	
+Бесплатные службы шрифтов, такие как Google Fonts (https://fonts.google.com/).
+и Adobe Fonts (https://fonts.adobe.com/) , размещают шрифты, на которые вы можете ссылаться из своего HTML-документа с помощью предоставленного link элемента.
+
+![css1](https://user-images.githubusercontent.com/65223481/186516521-fd45ab45-958a-43f2-9a27-0ef877a77072.png)	
 ![css2](https://user-images.githubusercontent.com/65223481/186516530-b782c8a6-a981-4ea9-a250-f699bb352d4f.png)
 ![css3](https://user-images.githubusercontent.com/65223481/186516540-0bf47f99-9422-4692-997c-8a6001cb4e0f.png)
 ![css4](https://user-images.githubusercontent.com/65223481/186763911-d4155579-6336-4e0c-a83d-f8fd2d9e044a.png)
 ![css5](https://user-images.githubusercontent.com/65223481/186763919-ed9a8058-0ce8-46a5-aa2e-a029abadc779.png)
 ![css6](https://user-images.githubusercontent.com/65223481/186763933-edcc46d0-ed20-4c0d-8ed2-b51d3fc8b1d6.png)
 ![css7](https://user-images.githubusercontent.com/65223481/186763945-86c3a1dc-9b67-4af5-9519-b9e9fff914b9.png)
-	
-
-
-</details></details>	
-	
-	
-	
-	
-	
-<details><summary><b>Learn CSS(Eng)</b></summary>
-	
-
-	
-	
-	
-
-
-
-	
-	
+![css8](https://user-images.githubusercontent.com/65223481/186767227-f9420151-aedd-4945-8c72-5af6cee24b02.png)
+</details>
+	</details>	
+		
 	
 <hr/>
 <h2 align="center">3)VCS (hello gitty), GitHub and Collaboration </h2> 
 
 ### task_git_collaboration
+	
 <details><summary><b>НЕДЕЛЯ 3-4 Coursera </b></summary>
 
 
