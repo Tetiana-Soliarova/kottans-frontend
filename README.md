@@ -54,7 +54,10 @@
 	
 
 	
+	
+	
 <details><summary><h5>Заметки<h5></summary>
+	Бесплатные службы шрифтов, такие как Google Fonts [https://fonts.google.com/](https://fonts.google.com/) и Adobe Fonts , размещают шрифты, на которые вы можете ссылаться из своего HTML-документа с помощью предоставленного <link>элемента.
 
 ![css1](https://user-images.githubusercontent.com/65223481/186516521-fd45ab45-958a-43f2-9a27-0ef877a77072.png)
 	
@@ -65,6 +68,9 @@
 </details></details>
 
 
+	
+	
+	
 <hr/>
 <h2 align="center">3)VCS (hello gitty), GitHub and Collaboration </h2> 
 
