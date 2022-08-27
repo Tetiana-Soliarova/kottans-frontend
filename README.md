@@ -34,9 +34,9 @@
 	
 	
 	
-	<details>
+<details>
 	<summary><b>Матеріали для самостійного вивчення</b></summary>
-		https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FAQ.md 
+		
 		
 	
 	
