@@ -27,19 +27,12 @@
 
 <details>
 	<summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary>
+![1н](https://user-images.githubusercontent.com/65223481/187017052-1173d769-fb98-4d6e-80aa-0d55cf2963c9.png)
+	
+![2н](https://user-images.githubusercontent.com/65223481/187017055-2bb1f6d7-577a-4ede-a5b6-99e502ce1bc4.png)
 	
 	
 	
-	
-	
-	![1н](https://user-images.githubusercontent.com/65223481/187016757-0edc8e93-0d90-4786-b975-5b27a3a2f491.png)
-
-	![2н](https://user-images.githubusercontent.com/65223481/187016758-a58dc934-3a30-48be-a506-38e7308c7783.png)
-	
-	Для самостійного вивчення 
-	<a href='https://clearlydecoded.com/recommended-books/'>Рекомендуемые книги</a>	
-
-Sublime Text 3	
 	
 </details>
 
