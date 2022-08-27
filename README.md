@@ -26,7 +26,14 @@
 
 
 <details><summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary>
-	Sublime Text 3.
+Для самостійного вивчення <a href='https://clearlydecoded.com/recommended-books/'>	
+	
+	
+	![1н](https://user-images.githubusercontent.com/65223481/187016757-0edc8e93-0d90-4786-b975-5b27a3a2f491.png)
+
+	![2н](https://user-images.githubusercontent.com/65223481/187016758-a58dc934-3a30-48be-a506-38e7308c7783.png)
+
+Sublime Text 3	
 </details>
 
 
