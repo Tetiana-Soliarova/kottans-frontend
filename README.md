@@ -20,6 +20,10 @@
  - [ ] **Friends App - real project!
 
 ---
+<h2 align="center">5)Responsive Web Design </h2> 
+### Responsive Web Design
+
+<hr/>
 <h2 align="center">4)Intro to HTML and CSS </h2> 
 
 ### task_html_css_intro
