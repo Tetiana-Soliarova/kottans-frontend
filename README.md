@@ -27,6 +27,7 @@
 
 <details>
 	<summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary>
+	
 ![1н](https://user-images.githubusercontent.com/65223481/187017052-1173d769-fb98-4d6e-80aa-0d55cf2963c9.png)
 	
 ![2н](https://user-images.githubusercontent.com/65223481/187017055-2bb1f6d7-577a-4ede-a5b6-99e502ce1bc4.png)
