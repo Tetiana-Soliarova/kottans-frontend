@@ -36,6 +36,7 @@
 	
 	<details>
 	<summary><b>Матеріали для самостійного вивчення</b></summary>
+		https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FAQ.md 
 		<div><a href ='https://clearlydecoded.com/recommended-books/'> Рекомендуемые книги</a></div>
 
 	<div><a href='https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FAQ.md'></a>Sublime Text+ пособия по веб-разработке и другой соответствующий контент</div>
