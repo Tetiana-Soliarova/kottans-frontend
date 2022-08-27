@@ -6,7 +6,7 @@
  - [x] **Git Basics**
  - [x] **Linux CLI and Networking**
  - [x] **VCS (hello gitty), GitHub and Collaboration**
- - [ ] **Intro to HTML & CSS
+ - [x] **Intro to HTML & CSS**
  - [ ] **Responsive Web Design
  - [ ] **HTML & CSS Practice
  - [ ] **JavaScript Basics
