@@ -36,8 +36,9 @@
 	
 <details>
 	<summary><b>Матеріали для самостійного вивчення</b></summary>
-	[Рекомендуемые книги](https://clearlydecoded.com/recommended-books/)	
+	[Рекомендуемые книги]:https://clearlydecoded.com/recommended-books/	
 	[Sublime Text+ пособия по веб-разработке и другой соответствующий контент]([https://clearlydecoded.com/recommended-books/](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FAQ.md))	
+	
 	
 	
 	
