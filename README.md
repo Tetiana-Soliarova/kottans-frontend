@@ -26,6 +26,7 @@
 
 
 <details><summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary>
+	Sublime Text 3.
 </details>
 
 
