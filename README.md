@@ -25,17 +25,20 @@
 ### task_html_css_intro
 
 
-<details><summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary>
+<details>
+	<summary><b>НЕДЕЛЯ 1-2 курсу Intro to HTML & CSS </b></summary>
 	Для самостійного вивчення 
 	<a href='https://clearlydecoded.com/recommended-books/'>Рекомендуемые книги</a>	
 	
-	<a href='https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FAQ.md'>git HTML+CSS</a>	
+	<a href='https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FAQ.md'>git HTML+CSS</a>
+	
 	
 	![1н](https://user-images.githubusercontent.com/65223481/187016757-0edc8e93-0d90-4786-b975-5b27a3a2f491.png)
 
 	![2н](https://user-images.githubusercontent.com/65223481/187016758-a58dc934-3a30-48be-a506-38e7308c7783.png)
 
 Sublime Text 3	
+	
 </details>
 
 
