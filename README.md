@@ -27,6 +27,7 @@
 <details><summary><b>Froggy+Grid Garden</b></summary>
 	
 ![froggy](https://user-images.githubusercontent.com/65223481/187166008-197ef712-2757-4bf0-9da3-376dd037b5bb.png)
+![grid2](https://user-images.githubusercontent.com/65223481/187213983-7358b198-4ba4-40f3-962f-91f2f89ffd76.png)
 	
 	
 </details>
