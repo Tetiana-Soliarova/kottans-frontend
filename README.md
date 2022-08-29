@@ -26,7 +26,11 @@
 
 <details><summary><b>Шпаргалки</b></summary>
 	
-Шпаргалка по Flexbox: https://fls.guru/flexbox.html		
+Шпаргалка по Flexbox: https://fls.guru/flexbox.html
+Игра flexboxfroggy: https://flexboxfroggy.com/
+Методология БЭМ за 17 минут: https://youtu.be/HihYQVuH64U
+Sublime Text 3 настройка установка плагины: https://youtu.be/xWhTf_o86Lg
+	
 </details>
 	
 
