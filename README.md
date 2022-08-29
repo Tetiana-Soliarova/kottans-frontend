@@ -33,6 +33,7 @@
 	
 
 <details><summary><b>Шпаргалки</b></summary>
+	####Flexbox
 	
 Шпаргалка по Flexbox: https://fls.guru/flexbox.html
 	
@@ -41,6 +42,10 @@
 Методология БЭМ за 17 минут: https://youtu.be/HihYQVuH64U
 	
 Sublime Text 3 настройка установка плагины: https://youtu.be/xWhTf_o86Lg
+	
+	####CSS Grid Layout
+Весь прейлист CSS Grid Layout: - https://www.youtube.com/playlist?list...
+![grid](https://user-images.githubusercontent.com/65223481/187191703-f7cca1b2-0ec1-4b80-95bb-afa63645d109.png)
 	
 </details>
 	
