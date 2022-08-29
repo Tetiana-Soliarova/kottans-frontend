@@ -24,11 +24,11 @@
 
 ### task_responsive_web_design
 
-<details>
-	<summary><b>Шпаргалки</b></summary>
+<details><summary><b>Шпаргалки</b></summary>
 	
 Шпаргалка по Flexbox: https://fls.guru/flexbox.html		
-<details>
+</details>
+	
 
 <hr/>
 <h2 align="center">4)Intro to HTML and CSS </h2> 
