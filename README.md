@@ -23,9 +23,6 @@
 <h2 align="center">5)Responsive Web Design </h2> 
 
 ### task_responsive_web_design
-
-<hr/>
-<h2 align="center">4)Intro to HTML and CSS </h2> 
 <details>
 	<summary><b>Шпаргалки</b></summary>
 	
@@ -34,6 +31,10 @@
 	
 	
 <details>
+
+<hr/>
+<h2 align="center">4)Intro to HTML and CSS </h2> 
+
 
 ### task_html_css_intro
 
