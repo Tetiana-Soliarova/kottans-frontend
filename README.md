@@ -23,13 +23,11 @@
 <h2 align="center">5)Responsive Web Design </h2> 
 
 ### task_responsive_web_design
+
 <details>
 	<summary><b>Шпаргалки</b></summary>
 	
-
-Шпаргалка по Flexbox: https://fls.guru/flexbox.html	
-	
-	
+Шпаргалка по Flexbox: https://fls.guru/flexbox.html		
 <details>
 
 <hr/>
