@@ -34,7 +34,7 @@
 
 <details><summary><b>Шпаргалки</b></summary>
 	
-	### Flexbox
+	-  **Flexbox** 
 	
 Шпаргалка по Flexbox: https://fls.guru/flexbox.html
 	
