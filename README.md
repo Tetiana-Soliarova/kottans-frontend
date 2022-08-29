@@ -46,8 +46,11 @@
 	
 **CSS Grid Layout**
 👉Шпаргалка по Grid (в разработке) - https://fls.guru/grid.html
+	
 👉 Результат практики - https://fls.guru/files/tutorials/grid...
+
 👉 Правильное адаптивное меню бургер - https://www.youtube.com/watch?v=chJQo...
+	
 👉 Адаптивные изображения - https://www.youtube.com/watch?v=nTtui...
 
 	
