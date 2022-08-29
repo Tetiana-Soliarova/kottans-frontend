@@ -36,17 +36,22 @@
 	
 **Flexbox** 
 	
-Шпаргалка по Flexbox: https://fls.guru/flexbox.html
+👉Шпаргалка по Flexbox: https://fls.guru/flexbox.html
 	
-Игра flexboxfroggy: https://flexboxfroggy.com/
+👉Игра flexboxfroggy: https://flexboxfroggy.com/
 	
-Методология БЭМ за 17 минут: https://youtu.be/HihYQVuH64U
+👉Методология БЭМ за 17 минут: https://youtu.be/HihYQVuH64U
 	
-Sublime Text 3 настройка установка плагины: https://youtu.be/xWhTf_o86Lg
+👉Sublime Text 3 настройка установка плагины: https://youtu.be/xWhTf_o86Lg
 	
 **CSS Grid Layout**
+👉Шпаргалка по Grid (в разработке) - https://fls.guru/grid.html
+👉 Результат практики - https://fls.guru/files/tutorials/grid...
+👉 Правильное адаптивное меню бургер - https://www.youtube.com/watch?v=chJQo...
+👉 Адаптивные изображения - https://www.youtube.com/watch?v=nTtui...
+
 	
-Весь прейлист CSS Grid Layout: - https://www.youtube.com/playlist?list...
+👉Весь прейлист CSS Grid Layout: - https://www.youtube.com/playlist?list...
 ![grid](https://user-images.githubusercontent.com/65223481/187191703-f7cca1b2-0ec1-4b80-95bb-afa63645d109.png)
 	
 </details>
