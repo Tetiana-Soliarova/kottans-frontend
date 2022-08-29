@@ -45,6 +45,7 @@
 👉Sublime Text 3 настройка установка плагины: https://youtu.be/xWhTf_o86Lg
 	
 **CSS Grid Layout**
+	
 👉Шпаргалка по Grid (в разработке) - https://fls.guru/grid.html
 	
 👉 Результат практики - https://fls.guru/files/tutorials/grid...
