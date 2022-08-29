@@ -7,7 +7,7 @@
  - [x] **Linux CLI and Networking**
  - [x] **VCS (hello gitty), GitHub and Collaboration**
  - [x] **Intro to HTML & CSS**
- - [x] **Responsive Web Design
+ - [x] **Responsive Web Design**
  - [ ] **HTML & CSS Practice
  - [ ] **JavaScript Basics
  - [ ] **Document Object Model - practice
