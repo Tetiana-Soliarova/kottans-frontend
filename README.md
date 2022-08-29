@@ -24,6 +24,14 @@
 
 ### task_responsive_web_design
 
+<details><summary><b>Froggy+Grid Garden</b></summary>
+	
+![froggy](https://user-images.githubusercontent.com/65223481/187166008-197ef712-2757-4bf0-9da3-376dd037b5bb.png)
+	
+	
+</details>
+	
+
 <details><summary><b>Шпаргалки</b></summary>
 	
 Шпаргалка по Flexbox: https://fls.guru/flexbox.html
