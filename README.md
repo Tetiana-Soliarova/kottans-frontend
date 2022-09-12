@@ -20,12 +20,19 @@
  - [ ] **Friends App - real project!
 
 ---
+
+<h2 align="center">7)JavaScript Basics </h2> 
+
+
+
+
+
+
+
 <h2 align="center">6)HTML & CSS Practice </h2> 
 
 [Demo](https://tetiana-soliarova.github.io/Popup-html-css/) |
 [Code base](https://github.com/Tetiana-Soliarova/Popup-html-css)
-
-
 
 
 <h2 align="center">5)Responsive Web Design </h2> 
