@@ -22,7 +22,13 @@
 ---
 
 <h2 align="center">7)JavaScript Basics </h2> 
+<details><summary><b>----------</b></summary>
+	
+![js](https://user-images.githubusercontent.com/65223481/189721828-f530c5a9-ec28-40a5-a530-d14580982ef6.png)
 
+	
+	
+</details>
 
 
 
