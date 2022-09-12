@@ -8,7 +8,7 @@
  - [x] **VCS (hello gitty), GitHub and Collaboration**
  - [x] **Intro to HTML & CSS**
  - [x] **Responsive Web Design**
- - [ ] **HTML & CSS Practice
+ - [x] **HTML & CSS Practice
  - [ ] **JavaScript Basics
  - [ ] **Document Object Model - practice
  - [ ] **Building a Tiny JS World (pre-OOP) - practice
@@ -20,6 +20,14 @@
  - [ ] **Friends App - real project!
 
 ---
+<h2 align="center">6)HTML & CSS Practice </h2> 
+
+[Demo](https://tetiana-soliarova.github.io/Popup-html-css/) |
+[Code base](https://github.com/Tetiana-Soliarova/Popup-html-css)
+
+
+
+
 <h2 align="center">5)Responsive Web Design </h2> 
 
 ### task_responsive_web_design
